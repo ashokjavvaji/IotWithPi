@@ -1,0 +1,17 @@
+https://www.flaticon.com/
+
+
+
+openweathermap api: 7fc3ac4f362f14bb2dfc885872364d9c
+
+API for Current Weather: Bangalore
+http://api.openweathermap.org/data/2.5/weather?APPID=7fc3ac4f362f14bb2dfc885872364d9c&id=1277333
+
+API for 5 Day Forecast: Bangalore
+http://api.openweathermap.org/data/2.5/forecast?APPID=7fc3ac4f362f14bb2dfc885872364d9c&id=1277333
+
+City Codes:
+-----------
+Hyderabad : 1269843
+Bangalore : 1277333
+Nellore   : 1261529
